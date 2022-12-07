@@ -1,4 +1,4 @@
 ---
-layout: cv
+layout: defualt
 title: "CV"
 ---
