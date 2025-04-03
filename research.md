@@ -3,13 +3,9 @@ layout: default
 title: "Research"
 ---
 
-#### Working papers 
+#### Published journal articles 
 
-Social networks and experienced inequality (with Anand Shrivastava and Arjun Jayadev)
-
-Unconventional approaches to intermediate microeconomics (with Amanda Page-Hoongrajok)
-
-Does economics make you selfish? (with Daniele Girardi, Samuel Bowles, and Simon Halliday)
+Mamunuru, Sai Madhurika, Anand Shrivastava, and Arjun Jayadev. "Social networks and experienced inequality." *Journal of Economic Behavior & Organization* 229 (2025): 106799.
 
 #### Work in progress
 
