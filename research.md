@@ -29,7 +29,7 @@ While there is a standard Walrasian approach to teaching intermediate microecono
 
 <br/>
 
-Mamunuru, Sai Madhurika. "Social status and women's work in urban India." Revise and resubmit at *Women's Studies International Forum* 
+Mamunuru, Sai Madhurika. "Social status and women's work in urban India." Revise and resubmit at *Women's Studies International Forum*. 
 
 In rural India, where landed, upper-caste women traditionally did not perform wage work, female labor force non-participation signals social status. In this paper I explore the ways in which urban India may be different given that urban India has more industrial variety and a greater concentration of high-skilled jobs. I propose that the relationship between female labor force participation and familial social status depends on the kinds of jobs women can access. Indicators of social status -- household wealth, education, and caste -- are all positively correlated with female participation in well-paying, high-skilled occupations, and negatively correlated with female participation in low and medium-skilled occupations. I cite three separate but interrelated reasons for this. First, high wages and other favorable job characteristics might incentivize female labor force participation even with high or improving socio-economic status. Second, high-skilled jobs accrue social respect rather than signal financial need. Third, women of a high social status have greater access to well-paying jobs because of social networks and higher college graduation rates.
 
