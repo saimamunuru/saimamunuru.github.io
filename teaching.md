@@ -4,7 +4,6 @@ title: "Teaching"
 ---
 
 #### Assistant Professor at Whitman College 
-<br/>
 
 * Principles of microeconomics --[Syllabus]([https://www.dropbox.com/s/v0yd51rpxudh4dx/PM_101B_v2.pdf?dl=0](https://www.dropbox.com/scl/fi/7tikipwrwrrhuo26cjk19/Principles_Syllabus_9.pdf?rlkey=5ssa0tqznbft5ynziomfhx4rf&dl=0))
 * Statistics for economics -- [Syllabus]([https://www.dropbox.com/s/t2e94u9xpmuff0l/S_227.pdf?dl=0](https://www.dropbox.com/scl/fi/a79ifrj008rgif4bm31bs/Stats_Syllabus.pdf?rlkey=0w0usa7b2n0zb99f752isbozx&dl=0))
@@ -16,7 +15,6 @@ title: "Teaching"
 <br/><br/>
 
 #### Lead instructor at the University of Massachusetts, Amherst
-<br/>
 
 * Intermediate microeconomics 
 * Math camp for PhD students 
@@ -24,7 +22,6 @@ title: "Teaching"
 <br/><br/>
 
 #### Teaching Assistant at the Univeristy of Masshachusetts, Amherst 
-<br/>
 
 * Introduction to econometrics 
 * Introduction to microeconomics
