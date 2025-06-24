@@ -3,7 +3,7 @@ layout: default
 title: "Research"
 ---
 
-### Published journal articles 
+#### Published journal articles 
 
 <br/>
 
@@ -35,7 +35,7 @@ While there is a standard Walrasian approach to teaching intermediate microecono
 
 <br/><br/>
 
-### Forthcoming 
+#### Forthcoming 
 
 <br/>
 
@@ -51,7 +51,7 @@ Symposia in the Journal of Economic Literature and the Journal of Economics Educ
 
 <br/><br/>
 
-### Work in progress 
+#### Work in progress 
 
 <br/>
 
